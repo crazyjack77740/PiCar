@@ -20,7 +20,7 @@ GPIO.setup(18, GPIO.OUT) #
 GPIO.setup(22, GPIO.OUT) #
 GPIO.setup(23, GPIO.OUT) #
 
-host = '114.32.209.33'  # 更改主機位置
+host = 'Ｘ.Ｘ.Ｘ.Ｘ'  # IP更改主機位置
 #host = '172.20.10.2:8888'  # 更改主機位置
 url = 'http://%s/iotPiCar/phpFunction/json_iot.php' % host
 updateURL = 'http://%s/iotPiCar/phpFunction/update_iot.php?' % host
